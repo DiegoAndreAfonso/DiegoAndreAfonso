@@ -38,7 +38,7 @@ Seja bem-vindo(a) ao meu perfil no GitHub! Aqui compartilho projetos, ideias e u
 
 ## 🔥 Projetos em Destaque
 
-### 🏋️‍♂️ **[GoGym](https://github.com/Caetano-Uriel/GoGym)**
+### 🏋️‍♂️ **[GoGym](https://github.com/DiegoAndreAfonso/GoGym)**
 Aplicativo mobile desenvolvido em parceria com Uriel Caetano, focado na gamificação da academia. Permite acompanhamento de treinos, desafios entre usuarios e gerenciamento de planos conforme a necessidade.
 Tecnologias: React Native · JavaScript
 
