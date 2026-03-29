@@ -50,8 +50,6 @@ Tecnologias: HTML · CSS · JavaScript
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DiegoAndreAfonso&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoAndreAfonso&layout=compact&theme=tokyonight" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DiegoAndreAfonso&theme=tokyonight" />
+</p>
