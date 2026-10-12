@@ -1,55 +1,53 @@
-# ✌️ E aí! Diego André Afonso aqui
+# Diego André Afonso
 
-Seja bem-vindo(a) ao meu perfil no GitHub! Aqui compartilho projetos, ideias e um pouco da minha jornada como desenvolvedor. 🚀
+**Desenvolvedor Full Stack | Gestão de Projetos de Software**
 
----
+Desenvolvo aplicações web e mobile, conectando necessidades de clientes à implementação de interfaces, APIs e bancos de dados.
 
-## 👨‍💻 Sobre mim
+Estou aberto a oportunidades e colaborações em desenvolvimento de software.
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no **IFNMG – Campus Almenara**  
-💼 Em busca de oportunidades para aplicar e evoluir minhas habilidades em desenvolvimento web e mobile  
-🎯 Focado em aprender, criar e colaborar com soluções que fazem a diferença
+## Sobre mim
 
----
+Sou estudante de Análise e Desenvolvimento de Sistemas no **IFNMG — Campus Almenara** e desenvolvedor full stack. Atuo no desenvolvimento de soluções pela **KDTech**, em parceria com **Kennedy Pinheiro**, participando do levantamento de requisitos, planejamento de funcionalidades e implementação de aplicações web. Meu trabalho conecta o entendimento das necessidades do cliente ao desenvolvimento de interfaces, APIs e bancos de dados.
 
-## 🛠️ Tecnologias & Habilidades
+Também desenvolvo aplicações mobile com React Native. Minha atuação em gestão de projetos envolve a organização de requisitos, o planejamento de funcionalidades e a colaboração no desenvolvimento de software.
 
-### 🧩 Frontend
+## Projetos em destaque
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff)](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+### Gestão Jurídica / Central Jurídica
 
-### 🔧 Backend
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=fff)](https://www.php.net/)
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff)](https://laravel.com/)
+Sistema para apoiar a rotina de escritórios de advocacia, reunindo gestão de clientes, casos e agenda. A interface também inclui uma visualização financeira demonstrativa, com dados exemplificativos.
 
-### 📱 Mobile
+Desenvolvi o projeto em parceria com **Kennedy Pinheiro**.
 
-[![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+**Tecnologias:** Next.js · React · TypeScript · Material UI · Laravel · MySQL.
 
-### 🎨 Design
+[Site do sistema — acesso com login](https://advogadosmca.com.br/)
 
-[![Figma](https://img.shields.io/badge/Figma-0AC97F?style=for-the-badge&logo=figma&logoColor=fff)](https://www.figma.com/)
+### Pela Ordem
 
----
+Solução para organizar pautas de audiências a partir de planilhas exportadas do eproc. Importa arquivos XLS, XLSX e CSV, considera impedimentos, agrupa as audiências de cada advogado em horários consecutivos no mesmo período e sinaliza conflitos quando o bloco não pode ser agendado. A pauta pode ser exportada em XLSX.
 
-## 🔥 Projetos em Destaque
+Participei da equipe que desenvolveu o projeto durante um **hackathon**.
 
-### 🏋️‍♂️ **[GoGym](https://github.com/DiegoAndreAfonso/GoGym)**
-Aplicativo mobile desenvolvido em parceria com Uriel Caetano, focado na gamificação da academia. Permite acompanhamento de treinos, desafios entre usuarios e gerenciamento de planos conforme a necessidade.
-Tecnologias: React Native · JavaScript
+**Tecnologias:** Next.js · React · TypeScript · Tailwind CSS · SheetJS · ExcelJS.
 
-### 📋 **[Gerenciamento de Clientes](https://github.com/DiegoAndreAfonso/Gerenciamento-de-clientes)**
-Sistema web simples para gerenciamento de clientes, com funcionalidades de cadastro, listagem e edição. Ideal para pequenas empresas que buscam organizar suas informações de forma prática.
-Tecnologias: HTML · CSS · JavaScript
+[Experimentar o Pela Ordem](https://pelaordem.advogadosmca.com.br/)
 
+O acesso é público, sem login. Planilhas e processos ficam temporariamente na aba e são descartados ao recarregar ou fechar a página.
 
----
+## Tecnologias e ferramentas
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DiegoAndreAfonso&theme=tokyonight" />
-</p>
+| Área | Tecnologias e ferramentas |
+| --- | --- |
+| Frontend | JavaScript, TypeScript, React, Next.js, HTML e CSS |
+| Backend | PHP, Laravel e APIs REST |
+| Banco de dados | MySQL |
+| Mobile | React Native |
+| Ferramentas | Git, GitHub, Linux e Figma |
+
+## Contato
+
+- [GitHub](https://github.com/DiegoAndreAfonso)
+- [LinkedIn](https://www.linkedin.com/in/diego-andr%C3%A9-afonso-b00b1724a/)
+- [Portfólio KDTech](https://kdtech.advogadosmca.com.br/)
