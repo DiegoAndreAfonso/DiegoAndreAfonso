@@ -1,6 +1,6 @@
 # Diego André Afonso
 
-**Desenvolvedor Full Stack | Gestão de Projetos de Software**
+**Desenvolvedor Full-Stack Júnior | Analista de Sistemas | Projetos de Tecnologia**
 
 Desenvolvo aplicações web e mobile, conectando necessidades de clientes à implementação de interfaces, APIs e bancos de dados.
 
@@ -49,5 +49,6 @@ O acesso é público, sem login. Planilhas e processos ficam temporariamente na 
 ## Contato
 
 - [GitHub](https://github.com/DiegoAndreAfonso)
-- [LinkedIn](https://www.linkedin.com/in/diego-andr%C3%A9-afonso-b00b1724a/)
+- [LinkedIn](https://www.linkedin.com/in/diego-andr%C3%A9-afonso)
+- [Portfólio pessoal](https://diego.advogadosmca.com.br/)
 - [Portfólio KDTech](https://kdtech.advogadosmca.com.br/)
